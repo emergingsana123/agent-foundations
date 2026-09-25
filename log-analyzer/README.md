@@ -39,3 +39,15 @@ pytest
 **Interview definition:**
 
 > "`pytest` is a Python testing framework that discovers and runs test functions and reports whether the expected behavior passes or fails."
+>
+> Git Basic Commands:
+> git add
+git commit
+git branch
+git checkout
+git merge
+git status
+>
+> Merge 2: keep one , check status
+>
+> 
