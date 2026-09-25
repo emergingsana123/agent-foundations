@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 # Log Analyzer Project
+=======
